@@ -1,0 +1,110 @@
+.slick-slider .slick-track, .slick-slider .slick-list{
+    display: flex;
+}
+.andro_newsletter-popup-modal .modal-dialog{
+    max-width: calc(650px - 45px);
+    margin: .5rem auto;
+    padding: 0 15px;
+}
+.andro_newsletter-popup-modal .modal-dialog .modal-content{
+    border-radius: 6px;
+}
+.andro_newsletter-popup-modal.show{
+    display: block;
+}
+:focus {
+    outline: none;
+}
+#inner_header{
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.aside-open.sigma_aside {
+    left: 0;
+}
+.aside-open.sigma_aside:not(.sigma_aside-desktop) + .sigma_aside-overlay, .aside-right-open.sigma_aside-desktop + .sigma_aside-overlay {
+    opacity: 1;
+    visibility: visible;
+}
+.sigma_product .sigma_product-controls a.active{
+    color: #ffffff;
+    margin-top: 0;
+    background-color: #ff5300;
+}
+.sigma_category-item.my-style .sigma_category img{
+    height:315px;
+    object-fit: cover;
+}
+.sigma_portfolio.style-3 .sigma_portfolio-content .btn{
+    white-space: nowrap;
+}
+.sigma_trending-product-slider .slick-dots{
+    width: auto;
+    text-align: left;
+}
+.sigma_trending-product-slider .slick-dots li{
+    margin: 0 0 15px;
+}
+.team_wp h6 a{
+    color: #36353a;
+}
+.team_wp h6:hover a{
+    color: #FF5300;
+}
+.galleryContainer .img-box{
+    transition-duration: 0.8s;
+    margin: 0 15px 30px;
+    text-align: center;
+    z-index: 2;
+}
+/* Blog */
+.post_wrap .post-format-audio + .post_info{
+	margin: 0;
+	box-shadow: rgba(0, 0, 0, 0.08) 0 0 25px;
+}
+.owl-theme .owl-dots .owl-dot span,
+.post_wrap .post-format-quote + .post_info,
+.post_wrap .post-format-link + .post_info{
+    display: none;
+}
+.comment-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.andro_notice-content.show{
+    display: block;
+}
+.sigma_progress .sigma_progress-count span:after{
+    content: '%';
+}
+.progress .progress-bar{
+    overflow: visible;
+}
+.sigma_pricing.primary-bg .sigma_pricing-icon{
+    background-color: #fff;
+}
+.sigma_pricing.primary-bg .sigma_pricing-rate,
+.sigma_pricing.primary-bg p,
+.sigma_pricing.primary-bg .sigma_general-list.style-3 ul li i,
+.sigma_pricing.primary-bg .sigma_general-list ul li span,
+.sigma_pricing.primary-bg .sigma_pricing-title{
+    color: #fff;
+}
+.owl-theme .owl-nav [class*=owl-]:hover,
+.owl-theme .owl-nav [class*=owl-]{
+    padding: 0;
+    margin: 0;
+    background: none;
+    color: inherit;
+    font-size: 16px;
+    border-radius: 0;
+}
+.owl-carousel button.owl-dot {
+    background: gray;
+}
+.owl-carousel button.owl-dot.active {
+    background: #FF5300;
+}

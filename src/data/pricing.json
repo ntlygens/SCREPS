@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-trophy",
+        "planname":"Silver",
+        "period":"One Time Transpotation",
+        "price":100,
+        "includes":[
+            "Single Covered Truck",
+            "Two men for Tranport",
+            "Minimum 10 miles",
+            "Maximum 100 miles",
+            "Not included insurance"
+        ]
+    },
+    {
+        "id":2,
+        "icon":"flaticon-diamond",
+        "planname":"Diamond",
+        "period":"Two Time Transpotation",
+        "price":150,
+        "includes":[
+            "Single Covered Truck",
+            "Two men for Tranport",
+            "Minimum 10 miles",
+            "Maximum 100 miles",
+            "Not included insurance"
+        ]
+    },
+    {
+        "id":3,
+        "icon":"flaticon-speed",
+        "planname":"Gold",
+        "period":"Four Time Transpotation",
+        "price":220,
+        "includes":[
+            "Single Covered Truck",
+            "Two men for Tranport",
+            "Minimum 10 miles",
+            "Maximum 100 miles",
+            "Not included insurance"
+        ]
+    }
+]

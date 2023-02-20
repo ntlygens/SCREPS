@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Yellow D. Hills",
+        "companyname": "Hillix Co.",
+        "text": "Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur.",
+        "position": "marker-1",
+        "isHover": true
+    },
+    {
+        "id": 2,
+        "name": "Yellow D. Hills",
+        "companyname": "Hillix Co.",
+        "text": "Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur.",
+        "position": "marker-2",
+        "isHover": false
+    },
+    {
+        "id": 3,
+        "name": "Yellow D. Hills",
+        "companyname": "Hillix Co.",
+        "text": "Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur.",
+        "position": "marker-3",
+        "isHover": false
+    },
+    {
+        "id": 4,
+        "name": "Yellow D. Hills",
+        "companyname": "Hillix Co.",
+        "text": "Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur.",
+        "position": "marker-4 right",
+        "isHover": false
+    },
+    {
+        "id": 5,
+        "name": "Yellow D. Hills",
+        "companyname": "Hillix Co.",
+        "text": "Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur.",
+        "position": "marker-5 right",
+        "isHover": false
+    },
+    {
+        "id": 6,
+        "name": "Yellow D. Hills",
+        "companyname": "Hillix Co.",
+        "text": "Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur.",
+        "position": "marker-6 right",
+        "isHover": false
+    }
+]

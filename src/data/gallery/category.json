@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"Office"
+    },
+    {
+        "id":2,
+        "title":"Workstation"
+    },
+    {
+        "id":3,
+        "title":"Sports Corner"
+    },
+    {
+        "id":4,
+        "title":"Food Corner"
+    },
+    {
+        "id":5,
+        "title":"Corner"
+    }
+]

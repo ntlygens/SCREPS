@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "icon":"assets/images/icon-1.png",
+        "title":"Cargo Storage",
+        "text":"Our global logistics expertise, advanced supply chain technology...",
+        "longtext":"Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end."
+    },
+    {
+        "id":2,
+        "icon":"assets/images/icon-2.png",
+        "title":"Ocean Shipping",
+        "text":"Our global logistics expertise, advanced supply chain technology...",
+        "longtext":"Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end."
+    },
+    {
+        "id":3,
+        "icon":"assets/images/icon-3.png",
+        "title":"Air Shipping",
+        "text":"Our global logistics expertise, advanced supply chain technology...",
+        "longtext":"Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end."
+    }
+]

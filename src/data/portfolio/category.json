@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"Unloading"
+    },
+    {
+        "id":2,
+        "title":"Loading"
+    },
+    {
+        "id":3,
+        "title":"Shipment"
+    },
+    {
+        "id":4,
+        "title":"Warehouse"
+    },
+    {
+        "id":5,
+        "title":"Chemicals"
+    },
+    {
+        "id":6,
+        "title":"Coals"
+    },
+    {
+        "id":7,
+        "title":"Transpotation"
+    },
+    {
+        "id":8,
+        "title":"Container"
+    }
+]

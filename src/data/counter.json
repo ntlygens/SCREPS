@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"fa fa-send",
+        "title":"Project Done",
+        "value":12090
+    },
+    {
+        "id":2,
+        "icon":"fa fa-coffee",
+        "title":"cup of coffee",
+        "value":10070
+    },
+    {
+        "id":3,
+        "icon":"fa fa-smile-o",
+        "title":"Happy Clients",
+        "value":89016
+    },
+    {
+        "id":4,
+        "icon":"fa fa-diamond",
+        "title":"Winning awards",
+        "value":570
+    }
+]

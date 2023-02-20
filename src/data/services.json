@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"assets/images/service-1.png",
+        "title":"Storage",
+        "text":"Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain management companies, we design and implement industry-leading solutions in both freight management."
+    },
+    {
+        "id":2,
+        "icon":"assets/images/service-2.png",
+        "title":"Logistic",
+        "text":"Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain management companies, we design and implement industry-leading solutions in both freight management."
+    },
+    {
+        "id":3,
+        "icon":"assets/images/service-3.png",
+        "title":"Tow Transpotation",
+        "text":"Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain management companies, we design and implement industry-leading solutions in both freight management."
+    },
+    {
+        "id":4,
+        "icon":"assets/images/service-4.png",
+        "title":"Passenger Transport",
+        "text":"Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain management companies, we design and implement industry-leading solutions in both freight management."
+    }
+]

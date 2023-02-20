@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Workers in company",
+        "value":80
+    },
+    {
+        "id":2,
+        "title":"Furnitures",
+        "value":85
+    },
+    {
+        "id":3,
+        "title":"Livestocks",
+        "value":55
+    }
+]

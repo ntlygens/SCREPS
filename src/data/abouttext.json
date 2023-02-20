@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "title":"Mission",
+        "icon":"flaticon-shipped",
+        "info":[
+            {
+                "title":"We have 24 Years Of Experience",
+                "subtitle":"WHY CHOOSE US",
+                "desc":"<p>Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. </p><p><strong>Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain when looking at its layout.</strong></p>",
+                "counter":[
+                    {
+                        "title":"Shipment Rotation Per Month",
+                        "value":25
+                    },
+                    {
+                        "title":"Years Practical Experience",
+                        "value":58
+                    },
+                    {
+                        "title":"Awesome Team Members",
+                        "value":30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Vision",
+        "icon":"flaticon-security",
+        "info":[
+            {
+                "title":"We have 24 Years Of Experience",
+                "subtitle":"WHY CHOOSE US",
+                "desc":"<p>Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. </p><p><strong>Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain when looking at its layout.</strong></p>",
+                "counter":[
+                    {
+                        "title":"Shipment Rotation Per Month",
+                        "value":25
+                    },
+                    {
+                        "title":"Years Practical Experience",
+                        "value":58
+                    },
+                    {
+                        "title":"Awesome Team Members",
+                        "value":30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Goal",
+        "icon":"flaticon-target",
+        "info":[
+            {
+                "title":"We have 24 Years Of Experience",
+                "subtitle":"WHY CHOOSE US",
+                "desc":"<p>Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. </p><p><strong>Transcargo makes business flow. As one of the world’s leading non-asset-based supply chain when looking at its layout.</strong></p>",
+                "counter":[
+                    {
+                        "title":"Shipment Rotation Per Month",
+                        "value":25
+                    },
+                    {
+                        "title":"Years Practical Experience",
+                        "value":58
+                    },
+                    {
+                        "title":"Awesome Team Members",
+                        "value":30
+                    }
+                ]
+            }
+        ]
+    }
+]

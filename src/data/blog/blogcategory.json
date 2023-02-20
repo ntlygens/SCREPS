@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"Logistic"
+    },
+    {
+        "id":2,
+        "title":"Trucking"
+    },
+    {
+        "id":3,
+        "title":"Shipping"
+    },
+    {
+        "id":4,
+        "title":"Moving"
+    },
+    {
+        "id":5,
+        "title":"Warehouse"
+    }
+]
