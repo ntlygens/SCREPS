@@ -39,12 +39,12 @@ const ScrollToTop = withRouter(({ children, location: { pathname } }) => {
 
 function App() {
   return (
-    <Router basename={"/templatemonster/react/expotia/"}>
+    <Router basename={"/"}>
       <Suspense fallback={<div></div>}>
         <ScrollToTop>
           {/* Home */}
-          <Route exact path="/" component={Home} />
-          <Route exact path="/home-v2" component={Hometwo} />
+          <Route exact path="/" component={Hometwo} />
+          {/*<Route exact path="/home-v2" component={Hometwo} />*/}
           {/* About Us */}
           <Route exact path="/about" component={About} />
           {/* Portfolio */}

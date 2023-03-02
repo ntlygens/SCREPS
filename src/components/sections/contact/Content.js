@@ -23,19 +23,19 @@ class Content extends Contactform {
                                     <ul>
                                         <li>
                                             <h6>Location Address</h6>
-                                            <p>Romada, 16/A, YoYo City, USA</p>
+                                            <p>115 E. 23rd St., FL/3, New York, USA</p>
                                         </li>
                                         <li>
                                             <h6>Phone Number</h6>
-                                            <p>+889 (909) 567 87 9</p>
+                                            <p>+1 (516) 988 3638</p>
                                         </li>
                                         <li>
                                             <h6>Email Address</h6>
-                                            <p>example@example.com</p>
+                                            <p>screpsllc@gmail.com</p>
                                         </li>
                                         <li>
                                             <h6>Web Address</h6>
-                                            <p>www.example.com</p>
+                                            <p>www.screpsllc.com</p>
                                         </li>
                                     </ul>
                                     <div className="direction_btn">

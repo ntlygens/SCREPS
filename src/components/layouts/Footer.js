@@ -19,7 +19,10 @@ class Footer extends Component {
                                     <Link to="/about">About</Link>
                                 </li>
                                 <li>
-                                    <Link to="/blog-grid">Blog</Link>
+                                    <Link to="/services">Services</Link>
+                                </li>
+                                <li>
+                                    <Link to="/faqs">FAQs</Link>
                                 </li>
                                 <li>
                                     <Link to="/contact">Contact</Link>
@@ -37,8 +40,8 @@ class Footer extends Component {
                     </div>
                     <div className="sigma_footer-bottom">
                         <div className="sigma_footer-copyright">
-                            <p className="mb-0"> Copyright © Website
-                  <Link to="#">2021</Link>
+                            <p className="mb-0"> Copyright ©
+                                <Link to="/contact"> ScrepsLLc.com 2023</Link>
                             </p>
                         </div>
                     </div>

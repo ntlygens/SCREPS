@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"Name",
-        "text":"Jacob Thomas"
+        "text":"Stephon G"
     },
     {
         "id":2,
@@ -11,22 +11,22 @@
     },
     {
         "id":3,
-        "title":"Freelance",
+        "title":"Technician",
         "text":"Available"
     },
     {
         "id":4,
-        "title":"Shipping",
-        "text":"Expotia Cargo"
+        "title":"Department",
+        "text":"Data Recovery"
     },
     {
         "id":5,
         "title":"Languages",
-        "text":"English, French"
+        "text":"English"
     },
     {
         "id":6,
         "title":"Address",
-        "text":"Etowah, TN 37331 United States"
+        "text":"115 E. 23rd St., FL3, New York, NY, 10010, USA"
     }
 ]

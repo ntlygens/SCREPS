@@ -2,22 +2,22 @@
     {
         "id":1,
         "icon":"assets/images/icon-1.png",
-        "title":"Cargo Storage",
-        "text":"Our global logistics expertise, advanced supply chain technology...",
-        "longtext":"Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end."
+        "title":"Device Repair",
+        "text":"SCREPS: A reliable way to fix your devices...",
+        "longtext":"SCREPS: A reliable way to fix your devices, utilizing the latest industry techniques and tools to ensure that each repair is done quickly and effectively. From simple screen repairs to more complex problems, SCREPS has you covered. "
     },
     {
         "id":2,
         "icon":"assets/images/icon-2.png",
-        "title":"Ocean Shipping",
-        "text":"Our global logistics expertise, advanced supply chain technology...",
-        "longtext":"Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end."
+        "title":"Data Recovery",
+        "text":"CREPS provides device data recovery services to help you restore...",
+        "longtext":"SCREPS provides data recovery services to help you restore any lost or deleted data from your device. The specific requirements of the customer are considered when ensuring that all device data is safely and securely recovered."
     },
     {
         "id":3,
         "icon":"assets/images/icon-3.png",
-        "title":"Air Shipping",
-        "text":"Our global logistics expertise, advanced supply chain technology...",
-        "longtext":"Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end."
+        "title":"Customization",
+        "text":"Customers can expect a level of unmatched detail and precision...",
+        "longtext":"Customers can expect a level of unmatched detail and precision to fit each device perfectly. Experienced technicians in mobile device repair and customization are available to discuss any specific needs a customer may have."
     }
 ]

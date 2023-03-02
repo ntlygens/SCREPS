@@ -14,7 +14,7 @@ class Hometwo extends Component {
                     <title>ScRepS LLc - Screen Repair Service | {pagelocation}</title>
                     <meta
                         name="description"
-                        content="Screps, screen repair, mobile repair, mobile screen repair"
+                        content="Screps, screen repair, mobile repair, mobile screen repair, laptop repair"
                     />
                 </MetaTags> 
                 <Header/>

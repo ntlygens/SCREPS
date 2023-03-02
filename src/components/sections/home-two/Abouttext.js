@@ -12,15 +12,15 @@ function Abouttext(props) {
                 <div className="row">
                     <div className="col-md-6 order-md-12">
                         <div className="about_img">
-                            <img src={process.env.PUBLIC_URL + "/assets/images/560x530.jpg"} alt="img" />
+                            <img style={{padding: 3 + "%"}} src={process.env.PUBLIC_URL + "/assets/images/homePg-aboutPnl-img.jpg"} alt="img" />
                         </div>
                     </div>
                     <div className="col-md-6">
                         <div className="about_company">
-                            <h6 className="sub-heading">Creativity is a best weapon</h6>
-                            <h3>Well established resources in many countries</h3>
-                            <p>We are a multicultural and customer centric trip support company that is always striving for excellence in the services we provide. Our testament that we will never tire in serving our clients around the clock is our team's creed and is instilled in our core values.</p>
-                            <p>We are one of the few companies that can truly offer worldwide trip support services with the highest service standards, is ISO certified and cost efficient, and will effectively allow you to save valuable time and resources.</p>
+                            <h6 className="sub-heading">Trust the experts at SCREPS</h6>
+                            <h3>Enjoy peace of mind with SCREPS Screen Repair</h3>
+                            <p>The premier source for all your mobile and device repair needs. Our experienced technicians use only the latest tools and genuine Apple parts to ensure your device is repaired to the highest standards. </p>
+                            <p>We offer competitive pricing and fast turnaround times, so you can get your device up and running in no time. Contact us today to learn more about our services and get started on your repair.</p>
                             <Link to="/about" className="btn">Read more</Link>
                         </div>
                     </div>
@@ -29,39 +29,16 @@ function Abouttext(props) {
                 <div className="row">
                     <div className="col-md-6">
                         <div className="about_img">
-                            <img src={process.env.PUBLIC_URL + "/assets/images/560x530-2.jpg"} alt="img" />
+                            <img style={{padding: 3 + "%"}} src={process.env.PUBLIC_URL + "/assets/images/data-recovery-1.jpg"} alt="img" />
                         </div>
                     </div>
                     <div className="col-md-6">
                         <div className="about_company">
-                            <h6 className="sub-heading">Creative &amp; innovative</h6>
-                            <h3>Inner control standards in production process</h3>
+                            <h6 className="sub-heading">Data Recovery &amp; Verification</h6>
+                            <h3>Specialized Software and Hardware Recovery Toolset</h3>
                             <div className="sigma_progress-wrapper mt-5 mb-5">
-                                {aboutcompany.map((item, i) => (
-                                    <div className="sigma_progress" key={i}>
-                                        <h6>{item.title}</h6>
-                                        <div className="progress">
-                                            <div className="progress-bar" style={{ width: item.value + "%" }}>
-                                                <span />
-                                            </div>
-                                        </div>
-                                        <div className="sigma_progress-count" style={{ left: item.value + "%" }}>
-                                            <CountUp start={focus ? 0 : null} end={item.value} duration={5} redraw={true}>
-                                                {({ countUpRef }) => (
-                                                    <VisibilitySensor
-                                                        onChange={isVisible => {
-                                                            if (isVisible) {
-                                                                setFocus(true);
-                                                            }
-                                                        }}
-                                                    >
-                                                        <span ref={countUpRef} />
-                                                    </VisibilitySensor>
-                                                )}
-                                            </CountUp>
-                                        </div>
-                                    </div>
-                                ))}
+                                <p>specialized and sophisticated procedure that can help you recover vital, lost data from damaged, corrupted, or otherwise inaccessible devices. </p>
+                                <p>the use of specialized software and hardware tools to help you recover data from hard drives, flash drives, and other digital storage media. The process can be complex and time-consuming, but the experts at a screen repair service company are experienced and knowledgeable in data recovery and can help you get your lost data back quickly and efficiently.</p>
                             </div>
                             <Link to="/about" className="btn">Read more</Link>
                         </div>

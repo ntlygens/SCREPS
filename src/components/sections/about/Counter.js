@@ -15,7 +15,7 @@ function Counter(props) {
                         <span className="s" />
                         <span className="dots_div" />
                     </div>
-                    <h2>Our Glorious Achievements</h2>
+                    <h2>Our Achievements</h2>
                 </div>
                 <div className="row">
                     {counter.map((item, i) => (

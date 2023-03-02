@@ -19,10 +19,10 @@ class Abouttext extends Popuphelper {
                         </div>
                         <div className="col-lg-6">
                             <div className="sigma_about style-4 pl-lg-4 mt-5 mt-lg-0">
-                                <h6 className="sub-heading">About Us</h6>
-                                <h3>I am here With 10 Years of Experience</h3>
+                                <h6 className="sub-heading">Who We Are</h6>
+                                <h3>10Yr+ Providing Quality Device Repair and Maintenance </h3>
                                 <div className="sigma_about-content">
-                                    <p className="m-0">Our global logistics expertise, advanced supply chain technology & customized logistics solutions will help you analyze, develop and implement successful supply chain management strategies from end-to-end.We always work</p>
+                                    <p className="m-0">With experienced technicians utilizing the latest tools and technologies to ensure that your devices are repaired quickly and efficiently, while providing exemplary customer service. Whether minor repair or complete replacements, you can rest assured that your devices will be in good hands. With our commitment to excellence, you can trust us to get the job done right the first time.</p>
                                     <ul className="sigma_about-list">
                                         {aboutinfo.map((item, i) => (
                                             <li key={i}>

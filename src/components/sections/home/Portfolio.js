@@ -22,13 +22,13 @@ class Portfolio extends Component {
             <div className="portfolio section-padding pt-0">
                 <div className="container">
                     <div className="section-header text-center">
-                        <h5>case study</h5>
+                        <h5>What We Do</h5>
                         <div className="heading_arrow">
                             <span className="dots_div" />
                             <span className="s" />
                             <span className="dots_div" />
                         </div>
-                        <h2>Trucking and Freight Transport</h2>
+                        <h2>Device Repair and Data Recovery</h2>
                     </div>
                 </div>
                 <div className="portfolio_img" id="portfolio">

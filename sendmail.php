@@ -1,6 +1,6 @@
 <?php
     // Your email here
-    $email = 'example@example.com';
+    $email = 'screpsllc@gmail.com';
 
     // Errors Object
     $serverErrors = array();

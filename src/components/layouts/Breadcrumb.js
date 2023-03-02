@@ -13,7 +13,7 @@ class Breadcrumb extends Component {
                                 <li className="breadcrumb-item active">{this.props.breadcrumb.pagename}</li>
                             </ul>
                         </nav>
-                        <h1>{this.props.breadcrumb.pagename} - Expotia</h1>
+                        <h1>{this.props.breadcrumb.pagename} - screpsllc</h1>
                     </div>
                 </div>
             </div>

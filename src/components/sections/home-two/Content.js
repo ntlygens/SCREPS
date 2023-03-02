@@ -19,15 +19,16 @@ class Content extends Component {
                 <Banner />
                 <Abouttext/>
                 <Tabsquote/>
-                <Ctatwo/>
+                {/*<Ctatwo/>*/}
                 <Video/>
-                <Infobox/>
-                <Singleteam/>
+                {/*<Infobox/>*/}
+                {/*<Singleteam/>*/}
+                {/*<Sponsors />*/}
                 <div className="section-padding pb-0"/>
-                <Portfolio/>
-                <Pointmap/>
-                <Sponsors />
-                <Blogpost/>
+                {/*<Portfolio/>*/}
+                {/*<Pointmap/>*/}
+                {/*<Sponsors />*/}
+                {/*<Blogpost/>*/}
                 <Contactblock/>
             </Fragment>
         );

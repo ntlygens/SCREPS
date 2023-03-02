@@ -1261,10 +1261,12 @@ label.error {
 	3. Intro
 =======================*/
 #intro {
-	background:url(../images/1920x950.jpg) no-repeat center / cover;
+	/* background:url(../images/1920x950.jpg) no-repeat center / cover; */
+	background:url(../images/screps_banner_bg_2a.jpg) no-repeat center / cover;
 }
 .intro_text {
-	padding:230px 0;
+	text-align: right;
+	padding: 100px 0 230px;
 }
 .intro_text h5 {
 	color:#60869e;
@@ -1430,7 +1432,7 @@ label.error {
 ========================*/
 .contact_wp {
 	position:relative;
-	box-decoration-break:1;
+	box-decoration-break: slice;
 }
 .box_wp {
 	background:#fff;
@@ -2567,15 +2569,21 @@ label.error {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
-.about_company {
-	padding: 40px 0 20px 20px;
+.home_company {
+
 }
-.about_company p {
+.about_company {
+	padding: 0 0 20px 20px;
+}
+.about_company p, .home_company p {
 	font-size:14px;
 	line-height:24px;
 }
-.about_company h3 {
+.about_company h3, .home_company h3 {
 	letter-spacing:-0.5px;
+}
+.about_img {
+	padding: 0;
 }
 .intro_video {
 	background:url(../images/1920x580.jpg) no-repeat 0 0 / 115% 450px;

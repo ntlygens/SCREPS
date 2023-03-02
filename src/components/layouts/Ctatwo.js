@@ -9,7 +9,7 @@ class Ctatwo extends Component {
                     <div className="row">
                         <div className="col-lg-9">
                             <h5>Take Action</h5>
-                            <h2>Are You Ready To Work Together</h2>
+                            <h2>Get your device fixed the right way at SCREPS Screen Repair.</h2>
                         </div>
                         <div className="col-lg-3">
                             <Link to="/contact" className="btn btn-lg">Drop us a line</Link>

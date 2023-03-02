@@ -11,9 +11,9 @@ class Content extends Component {
             <Fragment>
                 <Abouttext />
                 <Infobox />
-                <Counter />
+                {/*<Counter />*/}
                 <Aboutus />
-                <Testimonials />
+                {/*<Testimonials />*/}
             </Fragment>
         );
     }

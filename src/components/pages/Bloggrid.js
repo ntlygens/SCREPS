@@ -12,7 +12,7 @@ class Bloggrid extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Expotia Logistics - React Template | {pagelocation}</title>
+                    <title>ScRepS LLc - Screen Repair Service | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

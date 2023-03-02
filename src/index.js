@@ -16,10 +16,10 @@ import './index.css';
 
 
 ReactDOM.render(
-  <BrowserRouter basename={"/templatemonster/react/expotia/"}>
+  <BrowserRouter basename={"/"}>
     <App />
   </BrowserRouter>,
-  document.getElementById('expotia')
+  document.getElementById('screpsllc')
 );
 
 // If you want to start measuring performance in your app, pass a function
